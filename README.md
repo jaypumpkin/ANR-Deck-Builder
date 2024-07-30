@@ -17,6 +17,7 @@
 
 # DOWNLOAD #
 ~~[Get the application on Google Play](https://play.google.com/store/apps/details?id=com.shuneault.netrunnerdeckbuilder)~~
+
 ***Time marches on, and so do Google dev policies that mean this app is no longer available on the Play store***
 
 # THANKS #
