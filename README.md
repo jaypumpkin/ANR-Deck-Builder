@@ -1,3 +1,5 @@
+***This project is no longer maintained***
+
 # Deck Builder for Netrunner #
 * Allows to build decks for both Corporation and Runner
 * Ability to display only the data packs you own - makes cards searching easier
