@@ -16,7 +16,8 @@
 * Read External Storage: Required to import deck file
 
 # DOWNLOAD #
-[Get the application on Google Play](https://play.google.com/store/apps/details?id=com.shuneault.netrunnerdeckbuilder)
+~~[Get the application on Google Play](https://play.google.com/store/apps/details?id=com.shuneault.netrunnerdeckbuilder)~~
+***Time marches on, and so do Google dev policies that mean this app is no longer available on the Play store***
 
 # THANKS #
 Icons and logo created by [prisoner453](http://prisoner453.deviantart.com/art/Netrunner-Assets-351310060)
