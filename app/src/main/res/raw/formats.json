@@ -4,8 +4,8 @@
       "id": 1,
       "name": "Standard",
       "description": "All packs, following rotation",
-      "rotation": "rotation-2023",
-      "mwl": 25
+      "rotation": "rotation-2025",
+      "mwl": 39
     },
     {
       "id": 6,
@@ -13,10 +13,9 @@
       "description": "Limited cardpool of System Gateway and the latest narrative cycle",
       "packs": [
         "sg",
-        "su21",
-        "ms",
-        "ph",
-        "tai"
+        "rwr",
+        "tai",
+        "elev"
       ],
       "core_count": 1
     },
