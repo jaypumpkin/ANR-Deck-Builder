@@ -113,6 +113,18 @@
       ],
       "name": "Sixth Rotation",
       "date_start": "2023-08-11"
+    },
+    {
+      "code": "rotation-2025",
+      "cycles": [
+        "ashes",
+        "system-gateway",
+        "borealis",
+        "liberation",
+		"elevation"
+      ],
+      "name": "Seventh Rotation",
+      "date_start": "2025-04-24"
     }
   ]
 }
