@@ -647,10 +647,28 @@
       "position": 1,
       "size": 65,
       "ffg_id": null
+    },
+    {
+      "code": "rwr",
+      "cycle_code": "liberation",
+      "date_release": "2024-03-18",
+      "name": "Rebellion Without Rehearsal",
+      "position": 2,
+      "size": 65,
+      "ffg_id": null
+    },
+    {
+      "code": "elev",
+      "cycle_code": "elevation",
+      "date_release": "2025-04-24",
+      "name": "Elevation",
+      "position": 1,
+      "size": 82,
+      "ffg_id": null
     }
   ],
-  "total": 72,
+  "total": 74,
   "success": true,
   "version_number": "2.0",
-  "last_updated": "2023-07-24T17:40:54+00:00"
+  "last_updated": "2025-04-09T04:54:49+00:00"
 }
