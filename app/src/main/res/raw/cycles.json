@@ -89,7 +89,7 @@
       "name": "Red Sand",
       "position": 12,
       "size": 6,
-      "rotated": false
+      "rotated": true
     },
     {
       "code": "terminal-directive",
@@ -110,28 +110,28 @@
       "name": "Kitara",
       "position": 21,
       "size": 6,
-      "rotated": false
+      "rotated": true
     },
     {
       "code": "reign-and-reverie",
       "name": "Reign and Reverie",
       "position": 22,
       "size": 1,
-      "rotated": false
+      "rotated": true
     },
     {
       "code": "magnum-opus",
       "name": "Magnum Opus",
       "position": 23,
       "size": 1,
-      "rotated": false
+      "rotated": true
     },
     {
       "code": "napd",
       "name": "NAPD Multiplayer",
       "position": 24,
       "size": 1,
-      "rotated": false
+      "rotated": true
     },
     {
       "code": "sc19",
@@ -152,7 +152,7 @@
       "name": "Magnum Opus Reprint",
       "position": 28,
       "size": 1,
-      "rotated": false
+      "rotated": true
     },
     {
       "code": "salvaged-memories",
@@ -173,7 +173,7 @@
       "name": "System Update 2021",
       "position": 31,
       "size": 1,
-      "rotated": false
+      "rotated": true
     },
     {
       "code": "borealis",
@@ -200,5 +200,5 @@
   "total": 28,
   "success": true,
   "version_number": "2.0",
-  "last_updated": "2023-08-12T00:50:00+00:00"
+  "last_updated": "2025-04-24T02:59:19+00:00"
 }
