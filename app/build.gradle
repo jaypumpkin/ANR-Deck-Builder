@@ -16,11 +16,11 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.shuneault.netrunnerdeckbuilder"
+        applicationId "com.jaypumpkin.netrunnerdeckbuilder"
         minSdkVersion 23
         targetSdkVersion 31
-        versionCode 95
-        versionName "5.1.2"
+        versionCode 96
+        versionName "6.0.1"
 
         // Make sure this is consistent with the redirect URI used in res/raw/auth_config.json,
         // or specify additional redirect URIs in AndroidManifest.xml
