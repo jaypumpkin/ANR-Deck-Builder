@@ -18,7 +18,7 @@ android {
     defaultConfig {
         applicationId "com.jaypumpkin.netrunnerdeckbuilder"
         minSdkVersion 23
-        targetSdkVersion 35
+        targetSdkVersion 34
         versionCode 97
         versionName "6.0.2"
 
