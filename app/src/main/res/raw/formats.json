@@ -5,7 +5,7 @@
       "name": "Standard",
       "description": "All packs, following rotation",
       "rotation": "rotation-2025",
-      "mwl": 39
+      "mwl": 40
     },
     {
       "id": 6,
@@ -13,8 +13,7 @@
       "description": "Limited cardpool of System Gateway and the latest narrative cycle",
       "packs": [
         "sg",
-        "rwr",
-        "tai",
+        "vp",
         "elev"
       ],
       "core_count": 1
